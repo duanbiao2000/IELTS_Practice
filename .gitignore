@@ -82,3 +82,10 @@ MANIFEST
 
 # Sisyphus is included (not ignored per user request)
 # .sisyphus/
+
+# Claude Code local settings (machine-specific, should not be shared)
+.claude/settings.local.json
+.claude/settings.*.local.json
+
+# Sisyphus local project management notes (optional - local tracking)
+.sisyphus/notepads/
