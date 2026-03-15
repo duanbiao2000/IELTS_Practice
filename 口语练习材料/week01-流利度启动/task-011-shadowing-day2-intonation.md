@@ -227,6 +227,17 @@ This emotional range is what makes speech human, not robotic.
 
 ---
 
+## 🔗 RELATED TASKS
+
+| Type | Task | Description |
+|------|------|-------------|
+| **Previous** | [Task 007: Shadowing Day 1 - Rhythm](task-007-shadowing-day1-rhythm.md) | Foundation practice |
+| **Next in Series** | [Task 015: Shadowing Day 3](task-015-shadowing-day3-new-segment.md) | Continue with new segment |
+| **Related** | [Task 013: Intonation Practice](task-013-intonation-practice.md) | Deeper intonation work |
+| **Week 1 Reference** | [Quick Reference - Fluency](quick-reference-fluency.md) | Rhythm & stress basics |
+
+---
+
 ## 🎯 NEXT TASK
 → **Task 12: Record Your "Work/Study" Topic**
 

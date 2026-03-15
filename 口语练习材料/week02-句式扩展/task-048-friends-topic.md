@@ -253,6 +253,19 @@ Templates flow naturally when integrated into YOUR ideas.
 
 ---
 
+## 🔗 RELATED TASKS
+
+| Type | Task | Description |
+|------|------|-------------|
+| **Quick Reference** | [Part 3 Quick Reference](../week03-发音精修-模拟考/quick-reference-part3.md) | All Part 3 strategies in one file |
+| **Preparation** | [Task 039: ELSA Word Stress](task-039-elsa-word-stress.md) | Master stress for clearer speech |
+| **Related** | [Task 047: Sentence Templates](task-047-sentence-templates.md) | Frameworks for extended answers |
+| **Related** | [Task 036: Contrast Patterns](task-036-contrast-patterns.md) | For compare questions |
+| **Advanced** | [Task 071: Part 3 Abstract](../week03-发音精修-模拟考/task-071-part3-abstract.md) | Deep dive into abstract topics |
+| **Advanced** | [Task 072: Critical Thinking](../week03-发音精修-模拟考/task-072-critical-thinking.md) | Logic and reasoning skills |
+
+---
+
 ## 🎯 NEXT TASK
 → **Task 49: Week 2 Review - Find Most Improved Sentence Pattern**
 

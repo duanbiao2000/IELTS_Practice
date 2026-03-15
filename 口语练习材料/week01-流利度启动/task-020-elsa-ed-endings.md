@@ -349,6 +349,19 @@ When you see a past tense verb:
 
 ---
 
+## 🔗 RELATED TASKS
+
+| Type | Task | Description |
+|------|------|-------------|
+| **Series Start** | [Task 001: ELSA Diagnostic](task-001-elsa-diagnostic.md) | Your pronunciation baseline |
+| **Previous** | [Task 014: ELSA Phoneme Practice](task-014-elsa-phoneme-practice.md) | Individual sound practice |
+| **Related** | [Task 027: ELSA TH Sounds](../week02-句式扩展/task-027-conditional-patterns.md) | Another problem sound |
+| **Related** | [Task 032: ELSA V Sound](../week02-句式扩展/task-032-health-topic.md) | V sound practice |
+| **Week 3 Sprint** | [Task 053: ELSA Sprint Prep](../week03-发音精修-模拟考/task-053-elsa-sprint-prep.md) | Clear your error list |
+| **Final Check** | [Task 094: Final ELSA Test](../week04-冲刺稳定发挥/task-094-final-elsa-test.md) | Measure improvement |
+
+---
+
 ## 🎯 NEXT TASK
 → **Task 21: Record Your "Travel" Topic (Mandatory Connectors)**
 

@@ -275,6 +275,19 @@ The 4 parts work for EVERY Part 2 topic:
 
 ---
 
+## 🔗 RELATED TASKS
+
+| Type | Task | Description |
+|------|------|-------------|
+| **Quick Reference** | [Part 2 Quick Reference](quick-reference-part2.md) | All Part 2 strategies in one file |
+| **Next in Series** | [Task 041: Recording - Movie/Book](task-041-recording-movie-book.md) | Apply structure to practice task |
+| **Related Topic** | [Task 044: Entertainment Topic](task-044-entertainment-topic.md) | Practice with entertainment topic |
+| **Building Skills** | [Task 033: Review Recording](task-033-review-recording.md) | Self-assessment techniques |
+| **Timing Practice** | [Task 064: Part 2 Timing](../week03-发音精修-模拟考/task-064-part2-timing.md) | Master the 2-minute mark |
+| **Final Templates** | [Task 089: Final Template Library](../week04-冲刺稳定发挥/task-089-final-template-library.md) | Exam day reference |
+
+---
+
 ## 🎯 NEXT TASK
 → **Task 44: Entertainment Topic Using Part 2 Structure**
 
