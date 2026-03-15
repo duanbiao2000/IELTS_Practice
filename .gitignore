@@ -89,3 +89,4 @@ MANIFEST
 
 # Sisyphus local project management notes (optional - local tracking)
 .sisyphus/notepads/
+.sisyphus/plans/
