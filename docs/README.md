@@ -16,11 +16,11 @@ IELTS_Practice/
 │   └── VALIDATION-REPORT.md
 ├── practice/                    # Practice materials
 │   ├── README.md
-│   ├── daily/                 # Daily practice records (organized by date)
-│   │   ├── YYYY-MM-DD/       # Date-based subdirectories
-│   │   │   ├── sync.md
-│   │   │   ├── noon-card.md
-│   │   │   └── evening-card.md
+│   ├── daily/                 # Daily practice records (organized by month)
+│   │   ├── YYYY-MM/           # Month-based subdirectories
+│   │   │   ├── YYYY-MM-DD-sync.md
+│   │   │   ├── YYYY-MM-DD-noon-card.md
+│   │   │   └── YYYY-MM-DD-evening-card.md
 │   ├── reading/               # Reading practice materials
 │   └── writing/               # Writing practice materials
 ├── notes/                      # Learning notes
