@@ -176,6 +176,10 @@ Week 3: [░░░░░░░░░░] 0/25   Week 4: [░░░░░░░�
 
 - [📋 Topic Index - Find Materials by IELTS Topic](TOPIC-INDEX.md)
 
+### Printable Checklist
+
+- [🖨️ 100-Task Checklist (Printable)](../docs/SPEAKING_100_TASKS.md) - Quick reference for progress tracking
+
 ---
 
 *Last Updated: 2026-03-15*

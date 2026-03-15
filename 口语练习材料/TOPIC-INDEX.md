@@ -285,4 +285,5 @@
 
 - [📊 Progress Tracker](PROGRESS-TRACKER.md) - Track all 100 tasks
 - [📖 All Quick References](#-quick-reference-guide-by-topic-type) - Reference materials by skill
-- [🏠 Home](README.md) - Project overview
+- [🖨️ Printable Checklist](../docs/SPEAKING_100_TASKS.md) - Quick progress tracking checklist
+- [🏠 Home](../docs/README.md) - Project overview

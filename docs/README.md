@@ -12,6 +12,7 @@ IELTS_Practice/
 │   ├── IELTS_ANNOTATOR_GUIDE.md
 │   ├── MATERIAL-EXTRACTION-STANDARDS.md
 │   ├── REVIEW-STRATEGY.md
+│   ├── SPEAKING_100_TASKS.md  # 100-task speaking practice checklist
 │   ├── TOOLS_SUMMARY.md
 │   └── VALIDATION-REPORT.md
 ├── practice/                    # Practice materials
@@ -71,6 +72,8 @@ IELTS_Practice/
 - **Topics**: Cue cards, discussion questions, interview practice
 - **Samples**: Model answers and responses
 - **Focus**: Fluency, pronunciation, coherence, vocabulary range
+- **100-Task Program**: [SPEAKING_100_TASKS.md](SPEAKING_100_TASKS.md) - Complete 4-week speaking practice schedule
+- **Detailed Materials**: See [`口语练习材料/`](../口语练习材料/) for full task guides
 
 ## How to Use
 
