@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(find:*)",
+      "Bash(git push:*)",
+      "Bash(chmod:*)",
+      "Bash(markdownlint:*)",
+      "Bash(git submodule status:*)",
+      "Bash(git submodule add:*)",
+      "Bash(ls:*)",
+      "Bash(git rm:*)",
+      "Bash(git config:*)",
+      "WebSearch",
+      "mcp__web-reader__webReader",
+      "Bash(open:*)",
+      "Bash(xdg-open:*)",
+      "Bash(env:*)",
+      "Bash(claude:*)",
+      "Bash(python3:*)",
+      "Bash(wc:*)"
+    ]
+  },
+  "outputStyle": "Explanatory",
+  "prefersReducedMotion": true
+}
