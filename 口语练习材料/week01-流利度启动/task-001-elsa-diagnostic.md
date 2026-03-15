@@ -255,6 +255,19 @@ Answer these after completing the diagnostic:
 
 ---
 
+## 🔗 RELATED TASKS
+
+| Type | Task | Description |
+|------|------|-------------|
+| **Next in Series** | [Task 011: ELSA Phoneme Practice](task-011-elsa-phoneme-practice.md) | Target specific problem sounds |
+| **Next in Series** | [Task 014: ELSA -ed Endings](task-014-elsa-ed-endings.md) | Master past tense endings |
+| **Related** | [Task 020: ELSA Problem Sounds](task-020-elsa-problem-sounds.md) | Focus on Chinese speaker errors |
+| **Reinforces** | [Task 007: Shadowing Day 1](task-007-shadowing-day1-rhythm.md) | Apply pronunciation in rhythm practice |
+| **Week 3 Sprint** | [Task 053: ELSA Sprint Prep](../week03-发音精修-模拟考/task-053-elsa-sprint-prep.md) | Clear your error list |
+| **Final Check** | [Task 094: Final ELSA Test](../week04-冲刺稳定发挥/task-094-final-elsa-test.md) | Measure your improvement |
+
+---
+
 ## 🎯 NEXT TASK
 → **Task 2: Create Your 10 High-Frequency Topic Frameworks**
 

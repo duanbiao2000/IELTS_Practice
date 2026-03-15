@@ -334,5 +334,19 @@ TOTAL PRONUNCIATION AWARENESS: Did I notice these while speaking? YES / NO
 
 ---
 
+## 🔗 RELATED TASKS
+
+| Type | Task | Description |
+|------|------|-------------|
+| **Next Step** | [Task 052: Self-Rate Your Mock Recording](task-052-self-rate-recording.md) | Analyze your mock exam performance |
+| **Preparation** | [Task 025: Week 1 Mock Exam](../week01-流利度启动/task-025-week1-mock.md) | Earlier practice mock |
+| **Related** | [Task 089: Final Template Library](../week04-冲刺稳定发挥/task-089-final-template-library.md) | Exam day reference |
+| **Next in Series** | [Task 066: Full Mock Exam ②](task-066-full-mock-exam-2.md) | Second full mock |
+| **Week 3 Sprint** | [Task 073: Full Mock Exam ③](task-073-full-mock-exam-3.md) | Third mock before review |
+| **FinalMocks** | [Task 085: Full Mock Exam ④](../week04-冲刺稳定发挥/task-085-full-mock-exam-4.md) | Week 4 mocks |
+| **FinalMocks** | [Task 092: Full Mock Exam ⑤](../week04-冲刺稳定发挥/task-092-full-mock-exam-5.md) | Final preparation mock |
+
+---
+
 ## 🎯 NEXT TASK
 → **Task 52: Self-Rate Your Mock Recording**

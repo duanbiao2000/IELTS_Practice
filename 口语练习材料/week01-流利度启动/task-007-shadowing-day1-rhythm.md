@@ -79,7 +79,11 @@ Select a 60-second segment and shadow it 3 times. Focus entirely on rhythm—ign
 
 #### STEP 1: Select Your 60-Second Segment [3 min]
 
-Use the same BBC 6 Minute English episode from Task 6.
+**🎧 Finding BBC 6 Minute English:**
+- Visit: https://www.bbc.co.uk/learningenglish/english/features/6-minute-english
+- Choose any recent episode that interests you
+- All episodes are 6 minutes, free, and include transcripts
+
 Choose a segment where:
 - Both speakers are talking (not just one)
 - The pace is moderate (not too fast)
@@ -237,6 +241,18 @@ This timing is crucial for muscle memory development.
 - [ ] Shadowing Round 3 completed (full flow)
 - [ ] Reflection notes for each round
 - [ ] Journal reflections completed
+
+---
+
+## 🔗 RELATED TASKS
+
+| Type | Task | Description |
+|------|------|-------------|
+| **Prerequisite** | [Task 006: Connecting Words Part 1](task-006-connecting-words-part-1.md) | Learn basic linking words for smoother speech |
+| **Builds on** | [Task 001: ELSA Diagnostic](task-001-elsa-diagnostic.md) | Know your pronunciation baseline first |
+| **Related** | [Task 013: Intonation Practice](task-013-intonation-practice.md) | Deep dive into pitch patterns |
+| **Next in Series** | [Task 011: Shadowing Day 2](task-011-shadowing-day2-intonation.md) | Focus on intonation |
+| **Quick Reference** | [Week 1 Fluency Quick Reference](quick-reference-fluency.md) | Essential sounds & patterns |
 
 ---
 

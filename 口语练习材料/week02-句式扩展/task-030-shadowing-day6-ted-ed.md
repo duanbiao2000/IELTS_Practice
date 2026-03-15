@@ -60,12 +60,11 @@ Visit **YouTube.com/TED-Ed** and choose a video:
 - Topic: Something that interests you
 - Speaker: Clear, articulate voice
 
-**Suggested TED-Ed Videos:**
-- "How does money laundering work?"
-- "The benefits of a good night's sleep"
-- "Why do we itch?"
-- "How do vaccines work?"
-- "The history of chocolate"
+**🎧 Finding TED-Ed Videos:**
+- Visit: https://www.youtube.com/user/TEDEd or https://ed.ted.com
+- Search topics that interest you
+- Choose videos 3-6 minutes long
+- Most include transcripts
 
 #### STEP 2: First Listen - Just Understand [2 min]
 
